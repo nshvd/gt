@@ -2,3 +2,4 @@
 .DS_Store
 .idea
 proj1.iml
+out/*
