@@ -9,6 +9,11 @@ public class C1 {
         System.out.println("abc");
     }
 
+    public void sayHiToEveryone(){
+        System.out.println("Hello DevXschool!!!");
+    }
+
+
     public static void hl(String name){
         System.out.println("Hello: " + name);
     }
