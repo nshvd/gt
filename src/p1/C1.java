@@ -6,7 +6,7 @@ public class C1 {
         System.out.println("Bye");
     }
 
-    public static void hl(){
-
+    public static void hl(String name){
+        System.out.println("Hello: " + name);
     }
 }
