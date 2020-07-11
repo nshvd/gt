@@ -5,6 +5,8 @@ public class C1 {
         System.out.println("Hello new world!");
         System.out.println("Bye");
         System.out.println("Conflict here");
+        hl("Nazar");
+        System.out.println("abc");
     }
 
     public static void hl(String name){
