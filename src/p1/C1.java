@@ -7,6 +7,7 @@ public class C1 {
         System.out.println("Conflict here");
         hl("Nazar");
         System.out.println("abc");
+        System.out.println("Hi!");
     }
 
     public void sayHiToEveryone(){
