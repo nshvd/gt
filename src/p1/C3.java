@@ -7,5 +7,6 @@ public class C3 {
         System.out.println("Hello: " + name);
         System.out.println("abc");
         int conflict = 122134112;
+        System.out.println("GIVE ME A CONFLICT!");
     }
 }
